@@ -1,4 +1,4 @@
-This is a small SDL2 demo to shows how to use
+This is a small SDL2 demo to show how to use
 
  * [TextureColorMod](https://wiki.libsdl.org/SDL_GetTextureColorMod?action=fullsearch&context=180&value=TextureColorMod&titlesearch=Titles)
 
