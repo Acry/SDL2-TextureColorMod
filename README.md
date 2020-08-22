@@ -7,7 +7,7 @@ LMB sets a few values - log in console
 
 
 Useful links:  
-[SDL2](https://www.libsdl.org/) [SDL-Discourse](https://discourse.libsdl.org) [More Example Code](https://gist.github.com/Acry/baa861b8e370c6eddbb18519c487d9d8)
+[SDL2](https://www.libsdl.org/) [SDL-Discourse](https://discourse.libsdl.org) [More Example Code](https://acry.github.io/SDL2-C.html)
 
 Screenshot:  
 ![Screenshot](./screenshot1.jpg)  
